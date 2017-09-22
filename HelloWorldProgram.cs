@@ -10,7 +10,7 @@ namespace Hello_world
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, User!");
+            Console.WriteLine("22/09/2017");
             Console.ReadLine();
         }
     }
